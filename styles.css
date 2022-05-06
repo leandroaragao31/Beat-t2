@@ -148,12 +148,16 @@ div img{
     }
 
     .container_header div{
-        height: 75vh;
+        height: 80vh;
     }
     .container_header--btmList{
         width: 40vw;
-        font-size: 2.5vw;
+        font-size: 2vw;
     }
 
+    .container_menu--list{
+        width: 30vw;
+        font-size: 2vw;
+    }
    
 }
