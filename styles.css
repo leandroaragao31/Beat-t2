@@ -137,3 +137,23 @@ div img{
         font-size: 4vw;
     }
 }
+
+@media (max-height:400px){
+    .container_header{
+        height: 100%;
+    }
+
+    div img{
+        width: 30vw;
+    }
+
+    .container_header div{
+        height: 75vh;
+    }
+    .container_header--btmList{
+        width: 50vw;
+        font-size: 3vw;
+    }
+
+   
+}
